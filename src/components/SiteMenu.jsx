@@ -1,6 +1,6 @@
 function SiteMenu() {
   return (
-    <div id="site-menu" className="flex w-[57vw] h-[15vh] border-black border-[1px] justify-self-end justify-center items-center">
+    <div id="site-menu" className="fixed right-0 flex w-[57vw] h-[15vh] border-black border-[1px] justify-center items-center bg-white z-10 box-border">
         <nav className="">
             <ul className="flex flex-row gap-8">
                 <li>

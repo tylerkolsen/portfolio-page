@@ -1,7 +1,7 @@
 
 function Divider() {
   return (
-    <div className="border-black border-[1px] my-16 w-[890px] h-[1px]"></div>
+    <div className="border-black border-[1px] my-16 h-[1px] box-border"></div>
   )
 }
 
